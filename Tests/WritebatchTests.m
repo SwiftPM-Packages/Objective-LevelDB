@@ -6,7 +6,7 @@
 //
 //
 
-#import <Objective-LevelDB/LDBWriteBatch.h>
+#import <LDBWriteBatch.h>
 #import "BaseTestClass.h"
 
 @interface WritebatchTests : BaseTestClass

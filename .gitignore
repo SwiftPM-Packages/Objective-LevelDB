@@ -22,5 +22,8 @@ DerivedData
 *.hmap
 *.xccheckout
 
+# SwiftPM
+.build/
+
 #CocoaPods
 Pods

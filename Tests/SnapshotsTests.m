@@ -7,7 +7,7 @@
 //
 
 #import "BaseTestClass.h"
-#import <Objective-LevelDB/LDBSnapshot.h>
+#import <LDBSnapshot.h>
 
 static NSUInteger numberOfIterations = 2500;
 
